@@ -17,6 +17,10 @@ header,
     padding-top: 15%;
 }
 
+#navbar {
+    background: #333;
+}
+
 .top-nav-collapse {
     background-color: #333;
 }
@@ -55,4 +59,12 @@ h5,
 h6,
 a {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    border-radius: 70%;
+    padding: 20px;
 }
