@@ -14,7 +14,8 @@ header,
     -ms-flex-pack: center;
     -webkit-box-pack: center;
     justify-content: center;
-    padding-top: 15%;
+    padding-top: 10%;
+    
 }
 
 #navbar {
@@ -62,9 +63,8 @@ a {
 }
 
 .avatar {
-    vertical-align: middle;
-    width: 20px;
-    height: 20px;
-    border-radius: 70%;
-    padding: 20px;
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;;
 }
